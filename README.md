@@ -1,5 +1,8 @@
 ### Hi there! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-schneck/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat&logo=gmail&logoColor=white)](mailto:german.schneck@gmail.com)
+
 I’m a Senior Developer with **10+ years of experience**, specializing in **Full-Stack Architecture**, **Native & Cross-Platform Mobile**, and **Generative AI** solutions.
 
 ---
