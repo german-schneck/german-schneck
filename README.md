@@ -13,7 +13,7 @@ My journey has taken me from early-stage **startups** to large **telecom compani
 I am currently building at the intersection of **AI** and **Blockchain**:
 * **Generative AI:** Training **LoRA models**, fine-tuning pipelines, and generating assets with **Stable Diffusion** and **Python**.
 * **AI Agents:** Building context-aware applications using **LangChain** and LLMs.
-* **Mobile Engineering:** Developing high-performance apps for **iOS** and **Android** using **Kotlin** and React Native.
+* **Mobile Engineering:** Developing high-performance apps for **iOS** (Swift) and **Android** (Kotlin), alongside React Native.
 * **Backend Architecture:** Designing scalable microservices with **NestJS**, **GraphQL**, and event-driven systems.
 
 #### 💡 Philosophy
@@ -28,6 +28,7 @@ Beyond code, I value **clear communication**, **autonomy**, and **pragmatic inno
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 
